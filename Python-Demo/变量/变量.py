@@ -22,5 +22,8 @@ print(f"在线上吗？{is_true}")
 #判断类别type()
 print(type(is_true))
 
+#类型转换
 
+a=int(input(f"输入："))
+print(type(a))
 
